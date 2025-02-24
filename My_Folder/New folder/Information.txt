@@ -1,2 +1,3 @@
 Hi Im Animal
+Im a cat.
 Im dog.
